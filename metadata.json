@@ -1,0 +1,6 @@
+{
+  "name": "MailMind AI",
+  "description": "AI-powered email intelligence, actionable task extraction, deadline manager, and voice assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

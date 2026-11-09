@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MailMind AI</string>
+    <string name="default_web_client_id">272024622828-4caa125p58erndhpnreehdcjbb605jfe.apps.googleusercontent.com</string>
+    <string name="firebase_project_id">gen-lang-client-0754074722</string>
+    <string name="gmail_scope">https://www.googleapis.com/auth/gmail.readonly</string>
+    <string name="authorized_user_email">rakshit2004g@gmail.com</string>
+</resources>
